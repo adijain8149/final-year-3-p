@@ -2,6 +2,6 @@
       third   project  
      
       <br>
-author = aditya jains
+author = aditya jain lala
 <br>
 no aditya
